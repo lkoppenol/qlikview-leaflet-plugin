@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<ExtensionObject
+    Type="object"
+    Label="LeafletJs">
+    <Initiate Name="Caption.Show" Value="0"/>
+</ExtensionObject>
